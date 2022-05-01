@@ -1,0 +1,18 @@
+html
+{
+	scroll-behavior: auto !important; 
+}
+
+.navbar
+{
+	position: fixed;
+	width: 100vw;
+	z-index: 999;
+}
+
+.navbar-brand
+{
+	font-size: 20px;
+	font-weight: 700;
+}
+
